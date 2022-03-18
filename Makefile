@@ -1,4 +1,4 @@
-rcc:
+rcc: src
 	cargo build
 	cp ./target/debug/rcc .
 
